@@ -65,7 +65,7 @@ Although the treatment group (new landing page) showed a slightly lower conversi
 
 ---
 
-## 🙋‍♀️ Author & Contact
+## Author & Contact
 
 Created by **Shraddha Chauhan**  
 If you have questions, suggestions, or want to collaborate, feel free to connect on [LinkedIn](https://www.linkedin.com) or email me at **shraddhachauhan261999@gmail.com**
